@@ -4,7 +4,7 @@ Este é o repositório do meu portfólio pessoal e currículo interativo. O proj
 
 ## Live Demo
 O projeto está hospedado e pode ser acessado em tempo real: 
-https://mariotoda.github.io/Meu-Curr-culo/
+https://mariotoda.github.io/Meu-Curriculo/
 
 ## Arquitetura e Tecnologias
 
